@@ -1,0 +1,2 @@
+# OrtalamaHesaplayanProgram
+derslerin ortlamasını hesaplayan program
